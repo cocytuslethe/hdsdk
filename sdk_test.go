@@ -1,5 +1,7 @@
 package hdsdk
 
+// test gkkit
+
 import (
 	"bytes"
 	"fmt"
